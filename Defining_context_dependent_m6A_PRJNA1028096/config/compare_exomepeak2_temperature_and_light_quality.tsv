@@ -1,0 +1,10 @@
+group1	group2
+LD	16D
+LD	28D
+CK_T	Heat
+CK_T	Cold
+CK_Rec	HeatRec
+CK_Rec	ColdRec
+Light	Blue
+Light	Red
+Light	Far_red
